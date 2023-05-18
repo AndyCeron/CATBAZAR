@@ -1,0 +1,30 @@
+[18:05, 24/3/2023] Andy: <!Doctype html>
+<html>
+<head>
+<Title>CatBazar<\title>
+</head>
+<body>
+<header>
+<h1>CatBazar<\h1>
+<img ser="CatBazar.png"width="30%"/ >
+</header>
+<nav>
+<a href=
+<a href=
+</nav>
+<section>
+<img src= "conjunto.png" width="30%"/≥
+<p>"CatBazar es una marca   que ofrece la calidad en nuestras prendas, con muchos diseños de colores y estilos!"</p>
+</section>
+<section>
+<h3>Prendas con el 30%de descuento! <\h3>
+<p>Camisa de cuadros blanca y negra</p>
+<img src= "Camisa de cuadros.png" width="30%"/ >
+<p>Suéter de lana</p>
+<img src= "Sueter.png" width="30%"/>
+<p>Camisa Rosa</p>
+<img src= "Camisa rosa.png" width="30%"\ >
+<\section>
+<footer>CatBazar 2023<\footer>
+</body>
+</html>
